@@ -16,7 +16,6 @@ import {
 } from "components/pages/BridgePage/Bridge/constants";
 
 import axios from "axios";
-// import { isMobile } from "react-device-detect";
 
 const chainMap = {
   "0x1": 1,
